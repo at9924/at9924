@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @at9924
 - 👀 I’m interested in automation and cybersecurity
-- 🌱 I’m currently learning infosec, python & web dev
+- 🌱 I’m currently learning infosec and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
