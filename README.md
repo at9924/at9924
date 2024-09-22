@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @at9924
-- 👀 I’m interested in automation and cybersecurity
-- 🌱 I’m currently learning infosec and python
+- 👋 Hi, I’m at9924
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity, infosec and pentesting
 
 <!---
 at9924/at9924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
